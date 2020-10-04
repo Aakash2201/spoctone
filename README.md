@@ -9,19 +9,19 @@
 
 I am Subham Patel 😃. I am from Navi Mumbai, India and currently doing my B.E from Ramrao Adik Institute of Technology 🏫. I love to explore and learn about new things.
 ## 👯 Communities
-* Coders of XDA-OT
+* [DSC-RAIT](https://github.com/dscrait)
+* [Coders of XDA-OT](https://github.com/Coders-Of-XDA-OT)
 * Github Developer Community
 ## ⚡ Technologies
 Talk to me about
-- Front-end development using **HTML, CSS, JavaScript, Bootstrap and React**
-- Back-end development using **MongoDB, Express.js and Node.js**
-- Robust full-stack system design implementation
-- Solving Data structure and algorithm questions in **C, C++ and Java**
+- Front-end development using **HTML, CSS**
+- Scripting using **Python, Ruby**
+- Solving Data structure and algorithm questions in **C/C++ and Java**
 ## Hello World!! 🤔
 - 💬 Ask me about anything and everything.
 - 🎯 Portfolio site: [Portfolio](https://spoctone.me)
-- ⚡ Fun fact: I love all things Anime, Manga and Video Games. I guess you can call me a Weeb as well XD
-- (Template Credits: @arghya-007) 
+- ⚡ Fun fact: I love all things Anime, Manga and Video Games. I guess you can call me a weeb ¯\_( ͡° ͜ʖ ͡°)_/¯
+- (Template Credits: [arghya-007](https://github.com/arghya-007) 
 <a href="https://github.com/SPOCTONE">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPOCTONE&theme=dark&hide_langs_below=1" />
 </a>
