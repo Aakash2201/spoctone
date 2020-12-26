@@ -21,7 +21,7 @@ Talk to me about
 ## Hello World!! 🤔
 - 💬 Ask me about anything and everything.
 - 🎯 Portfolio site: [Portfolio](https://spoctone.me)
-- ⚡ Fun fact: I love all things Anime, Manga and Video Games. I guess you can call me a weeb ¯\_( ͡° ͜ʖ ͡°)_/¯
+- ⚡ Fun fact: I love all things Anime, Manga and Video Games. I guess you can call me a weeb ¯\\_( ͡° ͜ʖ ͡°)_/¯
 - Template Credits: [arghya-007](https://github.com/arghya-007) 
 <a href="https://github.com/SPOCTONE">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPOCTONE&theme=dark&hide_langs_below=1" />
